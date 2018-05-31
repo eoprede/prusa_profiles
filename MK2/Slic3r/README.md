@@ -2,6 +2,7 @@
 
 ### MK3 Pretty PETG Profile
 Profile by Chris Warkocki
+
 Even though I'm swamped with work I've had to reprint some parts lately and put together a nice PETG profile for parts that doubles as a nice pretty PETG profile.
 
 Feel free to adjust the infill as I'm having a kick using gyroid but all in all this is just a nice simple PETG profile that should give you good results fo general prints and parts for upgrades.

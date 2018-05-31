@@ -2,6 +2,7 @@
 
 ### MK3 Pretty PETG Profile
 Profile by Chris Warkocki
+
 Even though I'm swamped with work I've had to reprint some parts lately and put together a nice PETG profile for parts that doubles as a nice pretty PETG profile.
 
 Feel free to adjust the infill as I'm having a kick using gyroid but all in all this is just a nice simple PETG profile that should give you good results fo general prints and parts for upgrades.
@@ -29,4 +30,5 @@ Best with Slic3r 1.40.0 beta and above.
 
 ### Chris MK3 PLA V3
 Profile by Chris Warkocki
+
 I'm way slower than normal but it's time for an official update to the Slic3r 1.40 alpha 1 profile from me. This is very specific and targeted directly at those with issues of uneven extrusion on the MK3. After 3 weeks and lots of brainstorming I've taken a lot of input from smart people and tweaked the living poop out of it. I'm happy to say that initial prints on various MK3's show improvement to the extrusion issue.
