@@ -32,3 +32,14 @@ Best with Slic3r 1.40.0 beta and above.
 Profile by Chris Warkocki
 
 I'm way slower than normal but it's time for an official update to the Slic3r 1.40 alpha 1 profile from me. This is very specific and targeted directly at those with issues of uneven extrusion on the MK3. After 3 weeks and lots of brainstorming I've taken a lot of input from smart people and tweaked the living poop out of it. I'm happy to say that initial prints on various MK3's show improvement to the extrusion issue.
+
+### pp_tpu_config
+Profile by Paul Park
+
+slic3r PE for my mk3. Been working great, use at your own risk.
+
+I would do the e-correct tower in PLA and change the e-correct (if needed) first.
+
+And always use glue or something (baby powder, windex, etc) with TPU. I use glue.
+
+For me each filament even from the same brand requires a specific temperature. Some need extrusion multiplier of 0.9 or 0.95. I use sainsmart.
