@@ -43,3 +43,10 @@ I would do the e-correct tower in PLA and change the e-correct (if needed) first
 And always use glue or something (baby powder, windex, etc) with TPU. I use glue.
 
 For me each filament even from the same brand requires a specific temperature. Some need extrusion multiplier of 0.9 or 0.95. I use sainsmart.
+
+### MK3 3Dxtech Matte Petg
+Profile by Chris Warkocki
+
+#3dxtech just sent some sample Pretty Ridiculous Ultra Super Awesome Orange matte petg my way for testing. P.R.U.S.A. Orange is a near perfect match to the old ABS parts and prints like a dream as usual with every petg they sell.
+
+I've been messing with settings and have it locked down by increasing the print temps and doing some flexing here and there
