@@ -47,6 +47,17 @@ For me each filament even from the same brand requires a specific temperature. S
 ### MK3 3Dxtech Matte Petg
 Profile by Chris Warkocki
 
-#3dxtech just sent some sample Pretty Ridiculous Ultra Super Awesome Orange matte petg my way for testing. P.R.U.S.A. Orange is a near perfect match to the old ABS parts and prints like a dream as usual with every petg they sell.
+3dxtech just sent some sample Pretty Ridiculous Ultra Super Awesome Orange matte petg my way for testing. P.R.U.S.A. Orange is a near perfect match to the old ABS parts and prints like a dream as usual with every petg they sell.
 
 I've been messing with settings and have it locked down by increasing the print temps and doing some flexing here and there
+
+### Pretty Vase Mode
+Profile by Chris Warkocki
+
+Been working on a version of the PETG profile I've been working on specifically for printing in Vase Mode. Using large extrusions to make a nice strong vase but it's fully customizable down to 0.10mm layer heights this should be a good starting point for those looking to make some cool vases.
+
+So why PETG? The layers just bond so much better than PLA so you won't have to worry about this this busting if you give it a good squeeze.
+
+Getting it water tight is another story but I promise it shouldn't leak out the walls but most likely out the bottom. Adjust your perimeter overlap and extrusion multiplier till you don't get anymore leaks.
+
+Make sure you adjust the layer height based on the intricacies of the model. at the stock 0.30mm layer height objects like the Easter Island head will have gaps so make sure to spend time looking at the layer visualizer as well making sure you don't print over a 45 degree angle. Single walls are near impossible to get harsh angles.
