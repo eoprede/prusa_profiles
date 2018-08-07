@@ -61,3 +61,15 @@ So why PETG? The layers just bond so much better than PLA so you won't have to w
 Getting it water tight is another story but I promise it shouldn't leak out the walls but most likely out the bottom. Adjust your perimeter overlap and extrusion multiplier till you don't get anymore leaks.
 
 Make sure you adjust the layer height based on the intricacies of the model. at the stock 0.30mm layer height objects like the Easter Island head will have gaps so make sure to spend time looking at the layer visualizer as well making sure you don't print over a 45 degree angle. Single walls are near impossible to get harsh angles.
+
+### MK3 Pretty PETG V2
+Profile by Chris Warkocki
+
+I couldn't just post post a PLA profile so here is the update PETG profile. This one is a little faster than the last one but still gives really nice results. Again, no ooze while mesh leveling and the special purge bubble in the beginning to prime the nozzle just right for PETG. Happy printing!
+
+### MK3 Pretty PLA V2
+Profile by Chris Warkocki
+
+The latest and greatest release of Slic3r PE has finally hit. I've been waiting for a couple bug fixes before launching an all new profile and it just dropped an hour ago. Welcome to Slic3r PE 1.41.0 BETA. 
+
+A few refinements and adjustments based on the all new jerk and acceleration menu as well as refinements to the start and end gcode. Goodbye blobs on the bed. Have fun and happy printing.
