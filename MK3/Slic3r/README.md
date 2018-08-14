@@ -73,3 +73,6 @@ Profile by Chris Warkocki
 The latest and greatest release of Slic3r PE has finally hit. I've been waiting for a couple bug fixes before launching an all new profile and it just dropped an hour ago. Welcome to Slic3r PE 1.41.0 BETA. 
 
 A few refinements and adjustments based on the all new jerk and acceleration menu as well as refinements to the start and end gcode. Goodbye blobs on the bed. Have fun and happy printing.
+
+### NylonX
+NylonX Slic3r profile by Evan Lloyd
