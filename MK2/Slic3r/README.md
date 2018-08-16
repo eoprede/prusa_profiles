@@ -16,3 +16,8 @@ This is the PLA profile for all you MK2s and MK2,5 needs. I realized I set some 
 Print away and print often!
 
 Slic3r 1.40.0 Beta profile and above.
+
+### Pretty PETG V3
+Profile by Chris Warkocki
+
+Pretty PETG V3. Just fixed a couple things with bridging I didn't like in the V2. Will work on the MK2, MK2s, and the MK3 for certain.
