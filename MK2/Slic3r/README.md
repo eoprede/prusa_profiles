@@ -21,3 +21,8 @@ Slic3r 1.40.0 Beta profile and above.
 Profile by Chris Warkocki
 
 Pretty PETG V3. Just fixed a couple things with bridging I didn't like in the V2. Will work on the MK2, MK2s, and the MK3 for certain.
+
+### Pretty PLA V3
+Profile by Chris Warkocki
+
+Profiles time! I fixed the missing z hop necessary in the Pretty PLA profile so enjoy the refined and fixed version right here right now. It will work for certain on the MK2, MK2s, and the MK3. Nothing crazy in there and is just a nice simple profile with many many refinements.
