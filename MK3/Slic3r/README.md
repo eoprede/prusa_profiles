@@ -1,6 +1,7 @@
 # Slic3r profiles for Prusa i3 MK3
 
 ### MK3 Speed PLA Profile
+Updated May 5, 2018  
 Profile by Chris Warkocki
 
 Some people want to print fast but still have a decent print. I've played with this over the course of the last three weeks and a few dozen random or so prints and I think it's ready.
