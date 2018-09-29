@@ -63,3 +63,32 @@ Updated August 16, 2018
 Profile by Chris Warkocki
 
 Profiles time! I fixed the missing z hop necessary in the Pretty PLA profile so enjoy the refined and fixed version right here right now. It will work for certain on the MK2, MK2s, and the MK3. Nothing crazy in there and is just a nice simple profile with many many refinements.
+
+### Pretty Litho PETG
+Updated September 19, 2018
+Profile by Chris Warkocki
+
+For those looking for a starting point in printing Lithophanes I've sat down and tweaked the PETG profile a bit and did some maths and viola. I nice simple MK2s-MK3 Litho profile.
+
+I decided on PETG since it's the superior material for this.
+
+1. Better bed adhesion.
+2. Less chance at warping if placed near a window or warm lamp light.
+3. Less warping during printing.
+4. Less curling than PLA.
+5. Needs less cooling than PLA so difficult prints have room for more cooling.
+6. Less brittle.
+
+I use this site for making lithophanes: http://3dp.rocks/lithophane/
+
+Feel free to test away and happy printing!
+
+### Pretty Litho PLA
+Updated September 19, 2018
+Profile by Chris Warkocki
+
+For those who don't want to venture into PETG I ran a quick test and the stock settings worked for PLA so here is a starting point for a PLA lithograph profile.
+
+It doesn't have as much testing but the images are nearly identical and the quality is just right.
+
+Enjoy and happy printing!
