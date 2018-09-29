@@ -1,5 +1,17 @@
 # Slic3r profiles for Prusa i3 MK3
 
+- [Slic3r profiles for Prusa i3 MK3](#slic3r-profiles-for-prusa-i3-mk3)
+    + [MK3 Speed PLA Profile](#mk3-speed-pla-profile)
+    + [pp_tpu_config](#pp-tpu-config)
+    + [MK3 3Dxtech Matte Petg](#mk3-3dxtech-matte-petg)
+    + [Pretty Vase Mode](#pretty-vase-mode)
+    + [NylonX](#nylonx)
+    + [Hollow and spiral vase](#hollow-and-spiral-vase)
+    + [Pretty PETG V3](#pretty-petg-v3)
+    + [Pretty PLA V3](#pretty-pla-v3)
+    + [Pretty Litho PETG](#pretty-litho-petg)
+    + [Pretty Litho PLA](#pretty-litho-pla)
+
 ### MK3 Speed PLA Profile
 Updated May 5, 2018  
 Profile by Chris Warkocki
