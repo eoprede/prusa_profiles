@@ -11,6 +11,7 @@
     + [Pretty PLA V3](#pretty-pla-v3)
     + [Pretty Litho PETG](#pretty-litho-petg)
     + [Pretty Litho PLA](#pretty-litho-pla)
+    + [MMU Pretty PLA V1](#mmu-pretty-pla-v1)
 
 ### MK3 Speed PLA Profile
 Updated May 5, 2018  
@@ -104,3 +105,23 @@ For those who don't want to venture into PETG I ran a quick test and the stock s
 It doesn't have as much testing but the images are nearly identical and the quality is just right.
 
 Enjoy and happy printing!
+
+### MMU Pretty PLA V1
+Updated September 30, 2018
+Profile by Chris Warkocki
+
+For those using the MMU2 I'm posting this profile to help alleviate a few things.
+
+1. Included the start gcode for no mess mesh bed leveling.
+2. Lower extruder acceleration as it would cause skipping. 8000 to 5000 and may try lower.
+3. Increased Extruder jerk to help with tip creation. 1.5 to 2.
+4. Lowered retraction speeds and increased retraction amount before wipe and the distanced needed in a move before taking a retraction. Stock settings left fine hairs of strings. Almost gone now.
+5. Loading Speed at Start changed from 3 to 19. By PJR. The load speed at start was too low and would cause grinding of filament as it was mismatched with the stock bondtech load speed.
+6. Loading Speed changed from 14 to 22. By PJR. If the tip is slightly out of spec lower would cause it to stop at bondtech instead of going through. You may hear a click in the extruder as it forces the filament tip into the bondtech.
+7. Way Better Output filename format. 
+8. Adjusted first layer line width as it was too thin IMO. 0.40 to 0.45.
+9. Speed reduction to infill and solid infill. 200mm/s is too fast for some PLA so it's been reduced to a safer 120mm/2.
+10. Seam position changed to aligned for better prints.
+11. Bridging detection enabled so supports don't go covering the bridges.
+
+So far this is working just great. No more filament grinding and the values are much more printer friendly in some areas. If your'e having issues with your MMU2 printing give this a try and let me know.
