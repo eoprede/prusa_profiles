@@ -11,7 +11,9 @@
     + [Pretty PLA V3](#pretty-pla-v3)
     + [Pretty Litho PETG](#pretty-litho-petg)
     + [Pretty Litho PLA](#pretty-litho-pla)
-    + [MMU Pretty PLA V1](#mmu-pretty-pla-v1)
+    + [MMU Pretty PLA V1.2](#mmu-pretty-pla-v1-2)
+    + [Pretty CF PETG](#pretty-cf-petg)
+    + [Palette Plus Pretty PLA](#palette-plus-pretty-pla)
 
 ### MK3 Speed PLA Profile
 Updated May 5, 2018  
@@ -106,7 +108,7 @@ It doesn't have as much testing but the images are nearly identical and the qual
 
 Enjoy and happy printing!
 
-### MMU Pretty PLA V1
+### MMU Pretty PLA V1.2
 Updated September 30, 2018
 Profile by Chris Warkocki
 
@@ -124,4 +126,33 @@ For those using the MMU2 I'm posting this profile to help alleviate a few things
 10. Seam position changed to aligned for better prints.
 11. Bridging detection enabled so supports don't go covering the bridges.
 
+*new*
+
+12. Increased initial unload speed to 120mm/s to match next step
+13. Increased cooling moves from 1 to 2 in order to shape the tip better. Seems to improve too thick of tip that was causing jams on entry to Festo.
+
 So far this is working just great. No more filament grinding and the values are much more printer friendly in some areas. If your'e having issues with your MMU2 printing give this a try and let me know.
+
+### Pretty CF PETG
+Updated October 5, 2018
+Profile by Chris Warkocki
+
+I know a lot of people want to play with CF PETG so here is a really decent CF PETG profile.
+
+It's not perfect and I've noticed different brands need different tweaks to retraction settings so print something to test and hone in those retractions before doing a huge important print.
+
+this is a good starting point and works with both 3dxtech CF PETG and Matterhackers CF PETG but needs some adjustments depending on your setup.
+
+For those using a hardened steel nozzle bump the print temps up 10C and for those using an Olsson Ruby leave the temp alone unless you get bad layer adhesion.
+
+Good luck and happy printing!
+
+### Palette Plus Pretty PLA
+Updated October 5, 2018
+Profile by Chris Warkocki
+
+For those thinking of grabbing a Palette Plus on the cheap once the Palette 2 hits the market here is you Slic3r PE Pretty Palette Profile.
+
+Tested and the palette can keep up.
+
+Prusament btw needs a 3.2 heat and 3.5 compression factor. Fillamentum works fine with stock 2/2.
