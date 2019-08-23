@@ -8,7 +8,7 @@
     + [NylonX](#nylonx)
     + [Hollow and spiral vase](#hollow-and-spiral-vase)
     + [Pretty PETG V3](#pretty-petg-v3)
-    + [Pretty PLA V3](#pretty-pla-v3)
+    + [Pretty PLA V4](#pretty-pla-v4)
     + [Pretty Litho PETG](#pretty-litho-petg)
     + [Pretty Litho PLA](#pretty-litho-pla)
     + [MMU Pretty PLA V1.2](#mmu-pretty-pla-v1-2)
@@ -68,6 +68,12 @@ Profiles by Fedor Pikus
 Here are my profiles for water-tight vases. I started with Chris Warkocki Pretty PLA profile and modified the settings needed to make it water-tight. Basically, over-extrude a ton: make the lines wider and crank up the extrusion modifier. The hardest part is the transition from the bottom to the wall. The settings I have will do the job on most filaments and vases, at the cost of some ugliness where the infill is visible through the outside wall. If the vase is very wavy right from the bottom, then even this much overlap may not be enough. There are settings for 0.4 and 0.6mm nozzles (1.0mm nozzle works great, but I thought I'd post the more common ones). I have both spiral vase settings and regular hollow vase (no infill, 2 perimeters). Adjust the temperatures for your PLA material.
 
 ### Pretty PETG V3
+Updated August 16, 2018  
+Profile by Chris Warkocki
+
+Pretty PETG V3. Just fixed a couple things with bridging I didn't like in the V2. Will work on the MK2, MK2s, and the MK3 for certain.
+
+### Pretty PLA V4
 Updated August 23, 2019  
 Profile by Chris Warkocki
 
@@ -89,12 +95,6 @@ In tradition there are new things here that aren't in other profiles.
 3. more tweaks. After thousands of hours per months in prints and looking at user feedback more small adjustments were made and hopefully this means a better overall safe profile for everyone that wants to balance good quality and ease of printing.
 
 Note that you don't need to adjust anything besides layer height between 0.15mm-0.25mm. Just change the layer height and it'll work just fine.
-
-### Pretty PLA V3
-Updated August 16, 2018  
-Profile by Chris Warkocki
-
-Profiles time! I fixed the missing z hop necessary in the Pretty PLA profile so enjoy the refined and fixed version right here right now. It will work for certain on the MK2, MK2s, and the MK3. Nothing crazy in there and is just a nice simple profile with many many refinements.
 
 ### Pretty Litho PETG
 Updated September 19, 2018
